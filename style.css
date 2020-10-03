@@ -30,3 +30,14 @@ body{
 .div_volume{
     float:right;
 }
+
+.play_button{
+    font-size:25px;
+    width:130px;
+}
+
+canvas{
+    border:5px outset white;
+    border-radius:20px;
+    box-shadow:5px 5px 18px white;
+}
